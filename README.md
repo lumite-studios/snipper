@@ -1,2 +1,1 @@
-# snipper.github.io
- 
+# Snipper
